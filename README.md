@@ -1,4 +1,4 @@
-# Pimalion Publishing API Public PHP.
+# Pimalion Publishing API PHP Client.
 
-This is a PHP library to communicate with the Pimalion Publishing Public API, using PHP.
+This is a PHP client to communicate with the Pimalion Publishing API, using PHP.
 
